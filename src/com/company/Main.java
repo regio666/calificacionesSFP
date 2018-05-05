@@ -1,5 +1,10 @@
 package com.company;
 
+/**
+ * @author Sergio Fernández Pina
+ * @version 1.0
+ */
+
 public class Main {
 
     static String veredicto(String valor1, String valor2) {

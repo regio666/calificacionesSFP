@@ -14,7 +14,7 @@ public class Main {
      *          valor1<valor2 y la alternativa que es valor1>valor2 como "else", como una cadena de texto.
      */
 
-    static String veredicto(String valor1, String valor2) {
+    private static String veredicto(String valor1, String valor2) {
         if (valor1.equals(valor2)) {
             return "El resultado esperado, muy bien.";
         }
